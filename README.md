@@ -6,4 +6,4 @@ run the command "**pip install -r requirements.txt**" to install the required de
 You may need to install additional libraries for running the jupyter notebooks.
 
 
-🫡Live demo=
+🫡Live demo=https://multiple-disease-prediction-cqvw72piqhx4ap6hau8ezu.streamlit.app
