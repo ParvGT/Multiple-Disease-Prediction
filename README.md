@@ -7,7 +7,7 @@
 
 A machine learning web application that predicts three diseases — Diabetes, Heart Disease, and Parkinson's — based on clinical and biomedical inputs. Built with Python, Scikit-learn, and Streamlit.
 
-🔴 **Live Demo:** [Click Here to Try the App](https://multiple-disease-prediction-balfa6nnnvdxh6xyeao3yz.streamlit.app)
+🔴 **Live Demo:** [Click Here to Try the App](https://multiple-disease-prediction-cqvw72piqhx4ap6hau8ezu.streamlit.app)
 
 ---
 
